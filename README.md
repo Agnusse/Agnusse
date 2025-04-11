@@ -1,4 +1,5 @@
 ## Hi there 👋
+I´m currently studying at HS Mainz. 
 
 <!--
 **Agnusse/Agnusse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
